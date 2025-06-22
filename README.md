@@ -2,7 +2,7 @@
 
 #### 👋 Hey there, I'm Maithri!
 
-🎓 I'm currently pursuing my Master's in Computer Applications (MCA) at **St. Aloysius Deemed to be University**, Mangaluru.  
+🎓 I'm currently pursuing my Master's in Computer Applications (MCA) at **St. Aloysius Deemed to be University**, Mangaluru. 
 💼 I recently completed a **Full Stack Web Development Internship** at **Prodigy InfoTech**, where I gained hands-on experience working on web projects.  
 🐍 I'm comfortable with **Python** and enjoy building projects that solve real problems.  
 🌐 I’m learning and experimenting with modern web technologies like **Next.js** and **Tailwind CSS** to expand my skill set.  
