@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-#### 👋 Hey there, I'm Maithri!
+#### 👋 Hey there, I'm Maithri!   
 
 🎓 I'm currently pursuing my Master's in Computer Applications (MCA) at **St. Aloysius Deemed to be University**, Mangaluru. 
 💼 I recently completed a **Full Stack Web Development Internship** at **Prodigy InfoTech**, where I gained hands-on experience working on web projects.  
