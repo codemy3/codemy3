@@ -1,55 +1,101 @@
-## 💫 About Me
-   
-#### 👋 Hey there, I'm Maithri.    
+# Hey, I'm Maithri 👋
 
-🎓 I'm currently pursuing my Master's in Computer Applications (MCA) at **St. Aloysius Deemed to be University**, Mangaluru. 
-💼 I recently completed a **Full Stack Web Development Internship** at **Prodigy InfoTech**, where I gained hands-on experience working on web projects.  
-🐍 I'm comfortable with **Python** and enjoy building projects that solve real problems.  
-🌐 I’m learning and experimenting with modern web technologies like **Next.js** and **Tailwind CSS** to expand my skill set.  
-🎨 Outside of coding, I love expressing creativity through **Mandala Art** and occasionally share my work on **Medium** and **Weebly**.
+**Web Developer | Full-Stack Engineer | Creative Problem-Solver**
+
+I build seamless, high-performance web experiences for international clients. Currently at [Bright Media Tech](https://brightmediatech.com/) in Mangaluru, handling end-to-end delivery from concept through deployment—and everything in between.
 
 ---
 
-### 🔭 I’m currently working on
-Building my portfolio website and practicing both backend and frontend development.
+## 🎯 What I Do
 
-### 👯 I’m looking to collaborate on
-Beginner-friendly projects involving Python, web development, or creative coding.
+I specialize in crafting **pixel-perfect, performant web applications** that balance aesthetics with functionality. My approach: understand the problem, design thoughtfully, build intentionally.
 
-### 🤝 I’m looking for help with
-Deepening my knowledge of JavaScript frameworks and deployment strategies.
-
-### 🌱 I’m currently learning
-Advanced Python concepts, JavaScript fundamentals, Next.js, and Tailwind CSS.
+**Current focus:** Modern web technologies (Next.js, React, TypeScript), interactive experiences with motion design, and shipping production-ready code. I work directly with clients across **UAE, Bahrain, Qatar, Oman, and Côte d'Ivoire**—managing timelines, client communication, and full-stack delivery independently.
 
 ---
 
-## 🌐 Connect with Me
+## 💼 Professional Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maithri-suvarna-1532b0283/)[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@smaithri039)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smaithri039@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=codemy3&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=codemy3&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codemy3&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### **Web Developer @ Bright Media Tech** *(Current)*
+- **End-to-end project delivery**: UI/UX design, full-stack development, deployment, client communication
+- **International clients**: Companies across the Middle East, Africa, and Asia
+- **Key wins**: 
+  - Built award-aspirant websites (Awwwards-tier quality standards)
+  - Optimized complex animations with GSAP & Framer Motion for smooth 60fps experiences
+  - Implemented Shopify custom solutions using Liquid templating
+  - Managed client expectations through transparent communication and iterative delivery
 
 ---
 
-## 🏆 GitHub Trophies
+## 🛠️ Tech Stack
 
-![](https://github-profile-trophy.vercel.app/?username=codemy3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**Frontend (Primary)**
+- ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=000) ![Framer Motion](https://img.shields.io/badge/Framer-000?logo=framer&logoColor=white)
+
+**E-commerce & Backend**
+- ![Shopify Liquid](https://img.shields.io/badge/Shopify-96BE28?logo=shopify&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000)
+
+**Other Tools**
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=codemy3&icon=1&color=0)](https://visitcount.itsvg.in)
+## 📂 Recent Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### **Honey Garden** *(Client: Restaurant Group)*
+Premium restaurant website targeting Awwwards recognition. Built with Next.js, TypeScript, and GSAP-powered micro-interactions for an luxe dining experience.
+- Sophisticated motion design & scroll animations
+- Optimized performance & SEO
+- Client: UAE-based hospitality brand
+
+### **MY3 Studio** *(Freelance Brand)*
+Personal creative studio showcasing web design and development work. Built with Next.js and Tailwind CSS.
+- Portfolio pieces from 10+ international projects
+- Service offerings: custom web design, full-stack development, motion design
+- [@my3i_ii](https://instagram.com/my3i_ii) on Instagram
+
+### **Portfolio Site** *(Personal)*
+Experimenting with performance optimization, advanced animations, and modern design patterns.
+- Deploy strategy: Vercel + performance auditing
+- Tech: Next.js, TypeScript, Tailwind CSS
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+*St. Aloysius (Deemed To Be University), AIMIT — Mangaluru*  
+Batch 2026
+
+---
+
+## 🚀 What Drives Me
+
+I'm looking for my next chapter—ideally at a **creative agency** where I can:
+- Learn from talented designers, developers, and strategists
+- Work on ambitious projects that challenge and grow me
+- Be part of a team with shared mentality around craft and excellence
+- Eventually build my own creative company
+
+**What I'm seeking:** An environment that values mentorship, continuous learning, and treating each project as an opportunity to push the boundaries of what's possible on the web.
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maithri-suvarna-1532b0283/)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:smaithri039@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/codemy3)
+[![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=white)](https://medium.com/@smaithri039)
+[![MY3 Studio](https://img.shields.io/badge/MY3%20Studio-Portfolio-FF6B6B)](https://maithri-portfolio-amber.vercel.app/)
+
+---
+## 📊 GitHub Activity
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codemy3&theme=github_dark)](https://github.com/codemy3)
+
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codemy3&theme=github_dark)](https://github.com/codemy3)
+
+---
+
+<sub>Crafted with intention | Always learning | Open to opportunities</sub>
